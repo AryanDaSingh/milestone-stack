@@ -16,7 +16,7 @@ export const NavBar = () => {
                     <Link to="services">Services</Link>
                 </li>
                 <li>
-                    <Link to="contact">Contact</Link>
+                    <Link to="contact" className="contact-btn">Contact</Link>
                 </li>
             </ul>
         </nav>

@@ -20,3 +20,8 @@ li a {
 li a:hover {
     background-color: limegreen;
 }
+
+li a:active {
+    background-color: limegreen;
+    opacity: 0.75;
+}
