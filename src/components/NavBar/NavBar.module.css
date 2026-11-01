@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+li a {
+    display: block;
+    padding: 12px;
+    transition: background-color 0.2s ease;
+}
+
+li a:hover {
+    background-color: limegreen;
+}
+
+li a:active {
+    background-color: limegreen;
+    opacity: 0.75;
+}

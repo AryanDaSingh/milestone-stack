@@ -1,0 +1,9 @@
+* {
+    font-size: 24px;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0 8em;
+    margin: 0;
+}
