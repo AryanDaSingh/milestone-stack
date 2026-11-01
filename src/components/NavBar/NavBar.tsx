@@ -1,4 +1,5 @@
 import { Link } from "react-scroll"
+import './NavBar.module.css'
 
 export const NavBar = () => {
     return (
